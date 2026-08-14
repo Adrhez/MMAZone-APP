@@ -1,0 +1,31 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# 1. ARCHIVOS LOCALES DEL IDE (No se suben porque cada PC tiene rutas distintas)
+
+/.idea/
+
+
+# 2. CARPETAS DE COMPILACIÓN (Pesadísimas, Git se colapsaría si las subes)
+
+/app/build/
+
+# 3. KSP / ROOM GENERATED FILES
+/app/build/generated/ksp/
+
+# ==========================================
+# ⚠️ EL ESCUDO DE SEGURIDAD DE FIREBASE ⚠️
+# ==========================================
+google-services.json

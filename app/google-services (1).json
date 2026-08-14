@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541017329242",
+    "project_id": "mmazone-60466",
+    "storage_bucket": "mmazone-60466.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541017329242:android:577918645d1f911c075263",
+        "android_client_info": {
+          "package_name": "com.example.mmazone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541017329242-3vek060m8a5id2nb1it1k2buujesiaou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mmazone",
+            "certificate_hash": "d78c80129579a8ed028c1217ab819f3e89d5d9f0"
+          }
+        },
+        {
+          "client_id": "541017329242-p750b8jasg7sd2okde6t1f4e6fejimb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsdIRsTP4LzmBJar-SO_0uuPy3Rqyylc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541017329242-p750b8jasg7sd2okde6t1f4e6fejimb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
